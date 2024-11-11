@@ -57,6 +57,23 @@ h3 {
   line-height: 25px;
 }
 
+h4 {
+  color: #1a1a1a;
+  font-weight: 300;
+  margin: 0;
+  font-size: 20px;
+  line-height: 25px;
+}
+
+h5 {
+  color: #1a1a1a;
+  font-weight: 300;
+  text-align: center;
+  margin: 0;
+  font-size: 16px;
+  line-height: 20px;
+}
+
 .page-header {
   margin-top: 20px;
   /*border-color: #3498db;*/
@@ -341,3 +358,5 @@ div.paper i.fas {
 		font-size: 13px;
 	}
 }
+
+
